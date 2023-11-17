@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **Python** and **HTML/CSS**<br>💬 Contact me if you want to collaborate or commit me something<br>⚡ Contact:  [MSK](https://discord.com/) 💀 | mikesx_ on discord  *(i prefer you contact me directly)*
+🌱 I’m currently learning **Python** and **HTML/CSS**<br>💬 Contact me if you want to collaborate or commit me something<br>⚡ Contact:  mikesx_ on discord  *(i prefer you contact me directly)*
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
